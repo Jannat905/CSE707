@@ -1,0 +1,19 @@
+Overleaf link 
+https://www.overleaf.com/read/qnpcvvccgcph
+
+Link to unlisted YouTube video:
+
+
+Public link to the slide
+https://docs.google.com/presentation/d/1C2r3PdB_FPBxk6_U8gzKW_7A-CBUgjyBysiayqNYbAk/edit?usp=sharing
+
+Project title:
+Endoscopic Image Classification using Federated Learning And XAI
+
+Group Number:
+6
+
+Group Members:
+22266024 Anika Tasnim
+23166034 Nazia Parvin
+22266015 Mushfika Jannat Bristy
