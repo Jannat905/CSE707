@@ -16,15 +16,11 @@ completed youtube video:
 https://www.youtube.com/playlist?list=PLo85FWOkxiG83c2Vs9lI9aAiMcQif9AXX
 
 
-completed book:
-https://vulms.vu.edu.pk/Courses/CS712/Downloads/Principles%20of%20Distributed%20Database%20Systems.pdf
-
-
 did project:
-.....
+
 
 did something else
-...
+
 
 
 
